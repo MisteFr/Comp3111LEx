@@ -2,4 +2,4 @@
 
 This is my README.MD with a screenshot included.
 
-![Screenshot](img/screenshot.png)
+![Screenshot](../../../../img/screenshot.png)
